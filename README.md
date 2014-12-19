@@ -5,9 +5,7 @@ Working with android notification instead of toast
 
 
 **ANDROID NOTIFICATION SYSTEM**  
-Android toast is a great component but the problem what i sense is after its duration it will disappear and if user needs  
-information to be seen at any cost then toast is not the great way to start with. Android has a class for notification i have briefly  
-given small program where user can activate notifications from button onclick listner class hope this helps.  
+Android toast is a great component but the problem what i sense is after its duration it will disappear and if user needs information to be seen at any cost then toast is not the great way to start with. Android has a class for notification i have briefly given small program where user can activate notifications from button onclick listner class hope this helps.  
 
 **Following information describes about toast**  
   
